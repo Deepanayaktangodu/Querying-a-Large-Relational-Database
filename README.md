@@ -1,6 +1,7 @@
 # Querying-a-Large-Relational-Database
 This project explores querying and analyzing a large relational database using SQL. The focus is on extracting meaningful insights from the AdventureWorks database, a sample dataset provided by Microsoft. By writing and executing structured queries, the project demonstrates the ability to retrieve customer details, analyze sales trends, and perform specific customer-focused sales analyses.
- ## Description This project includes: 
+ ## Description 
+ This project includes: 
 - Restoring and querying the AdventureWorks database, a sample database provided by Microsoft.
 - Extracting detailed customer information such as email IDs, phone numbers, and their types. 
 - Analyzing sales data, including monthly and yearly sales trends. 
